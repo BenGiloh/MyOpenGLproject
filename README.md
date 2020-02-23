@@ -1,20 +1,25 @@
 HEADING1
 ===
-#HEADING
+#
+HEADING
 
 CREATE SUB-HEADING
 ---
 
-##CREATE VERTEX VECTORE
+##
+CREATE VERTEX VECTORE
 
-###CREATE SHADER
+###
+CREATE SHADER
 
 VS
+
 ####This is my first paragraph
 
 #####This is my second paragraph
 ---
 **This is bold**
+
 *This is italic*
 ---
 COMMAND `do it`
