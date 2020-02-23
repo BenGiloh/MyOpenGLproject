@@ -2,17 +2,25 @@ HEADING1
 ===
 #HEADING
 
-##CREATE WINDOWS
+CREATE SUB-HEADING
+---
 
-###CREATE VERTEX VECTORE
+##CREATE VERTEX VECTORE
 
-####CREATE SHADER
-...
-This is my first paragraph **Window**
+###CREATE SHADER
 
-This is my second paragraph *Shader*
-...
-...
+VS
+####This is my first paragraph
+
+#####This is my second paragraph
+---
+**This is bold**
+*This is italic*
+---
+COMMAND `do it`
+
+BLOCK OF CODE:
+```
 #include <iostream>
 using name space std;
 
@@ -21,11 +29,12 @@ int main()
   cout <<"Hellow Ben"<<endl;
   return 0
 }
-...
+```
+---
 
-##INSTALATION
+INSTALATION:
 1. First step
 2. Second step
 3. third step
 
-##Bugs
+This is separation by --- DASH-MARK
