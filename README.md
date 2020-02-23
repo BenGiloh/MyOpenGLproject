@@ -10,42 +10,44 @@ definition and **Vertex SHADER**. The vertex shader is created by 2 functions:
 
 ## CODE EXAMPLE
 
-The prototype of the CreateShader is:
+The code example is:
 ```
 #include <iostream>
 
-``` 
-
-### CREATE SHADER
-
-VS
-
-#### This is my first paragraph
-
-##### This is my second paragraph
----
-**This is bold**
-
-*This is italic*
----
-COMMAND `do it`
-
-BLOCK OF CODE:
-```
-#include <iostream>
-using name space std;
-
-int main()
+int main ()
 {
-  cout <<"Hellow Ben"<<endl;
-  return 0
+  cout<<"Hellow Ben"<<endl;
 }
+
 ```
----
+## MOTIVATION
 
-INSTALATION:
-1. First step
-2. Second step
-3. third step
+The project exists because I want to design a network game
 
-This is separation by --- DASH-MARK
+## INSTLLATION
+
+1. Install GLFW library
+2. Install GLEW library
+3. Build the project
+
+## FILE LIST/API REFERENCES
+
+MakeFile
+
+README.md
+
+/SRC:
+
+ openGLmain.cpp
+
+## TESTS
+
+Tests can be run with code example...
+
+## CONTRIBUTORS
+
+You can dive into the project by access to the webpage: *www.balagan.com*
+
+## LICENSE
+
+This code is open code free of charge
