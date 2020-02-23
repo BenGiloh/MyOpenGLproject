@@ -1,15 +1,17 @@
-#MyOpenGL 1
+HEADING1
+===
+#HEADING
 
-##Creating window
+##CREATE WINDOWS
 
-###Creating Vertex buffer
+###CREATE VERTEX VECTORE
 
-####Creating Shader
-
+####CREATE SHADER
+...
 This is my first paragraph **Window**
 
 This is my second paragraph *Shader*
-
+...
 ...
 #include <iostream>
 using name space std;
