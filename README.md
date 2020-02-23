@@ -24,5 +24,6 @@ int main()
 ##INSTALATION
 1. First step
 2. Second step
+3. third step
 
 ##Bugs
