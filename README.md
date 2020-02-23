@@ -1,11 +1,20 @@
-HEADING1
-===
-# HEADING
+# MY GAME PROJECT
 
+## PROJECT HIGHLIGHT
 
----
+The project creates a **window** and draw a triangle based on **Vertex Buffer**
+definition and **Vertex SHADER**. The vertex shader is created by 2 functions:
 
-## CREATE VERTEX VECTORE
+1. `CreateShader() ` function.
+2. `CompileShader()` function.
+
+## CODE EXAMPLE
+
+The prototype of the CreateShader is:
+```
+#include <iostream>
+
+``` 
 
 ### CREATE SHADER
 
